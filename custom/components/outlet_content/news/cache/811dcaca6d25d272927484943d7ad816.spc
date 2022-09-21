@@ -1,0 +1,7 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:4:"
+  
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:18:"
+    
+    
+    
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:14:"Dice.com - php";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:19:"http://www.dice.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:35:"Dice.com custom RSS job search feed";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:10:{s:16:"content-encoding";s:4:"gzip";s:4:"vary";s:15:"Accept-Encoding";s:3:"p3p";s:75:"CP=ALL ADMi DEVi PSA CONi OUR DELi SAMi BUS NAV COM CNT ONL INT PHY DEM UNI";s:10:"set-cookie";s:109:"MERCURYDCSP=2cSpLpQD2yPsvphL1y8SrqQMfy9pQyrpgQMF8d0CLd0LQ83fYhJC!476607669!68402092; domain=.dice.com; path=/";s:13:"cache-control";s:19:"no-cache=set-cookie";s:4:"date";s:29:"Tue, 11 May 2010 16:07:30 GMT";s:17:"transfer-encoding";s:7:"chunked";s:6:"server";s:20:"Apache/2.2.15 (Unix)";s:12:"x-powered-by";s:19:"Servlet/2.4 JSP/2.0";s:12:"content-type";s:8:"text/xml";}s:5:"build";s:14:"20090627192103";}

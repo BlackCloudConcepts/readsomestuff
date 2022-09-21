@@ -1,0 +1,136 @@
+body {
+	color: #c59c9c;
+	background: #fff url(../images/pink/bg_top_pink.png) center top repeat-x;
+}
+
+a:link, a:visited {
+	color: #a87676;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #c59c9c;
+}
+
+#header {
+	background: url(../images/pink/header_pink.png) no-repeat 0 0;
+}
+
+/* module left */
+#left_l {
+	background: url(../images/pink/cont_shadow_l_pink.png) top left no-repeat;
+}
+
+#left_r {
+	background: url(../images/pink/cont_shadow_r_pink.png) top right no-repeat;
+}
+
+/* content */
+#content_l {
+	background: url(../images/pink/cont_shadow_l_pink.png) top left no-repeat;
+}
+
+#content_r {
+	background: url(../images/pink/cont_shadow_r_pink.png) top right no-repeat;
+}
+
+#pathway_inside {
+	border: 1px dotted #f9d5d5;
+}
+
+.inputbox {
+	border: 1px solid #c59c9c;
+	background: #faf2f2;
+	padding: 2px;
+	color: #c59c9c;
+}
+
+.inputbox:hover, .inputbox:focus {
+	border: 1px solid #a87676;
+	background: #fff;
+}
+
+.button {
+	background: #c59c9c;
+}
+
+.button:hover {
+	background: #a87676;
+}
+
+/* footer */
+#footer {
+	background: #fff url(../images/pink/bg_bottom_pink.png) center bottom repeat-x;
+}
+
+#footer a:link, #footer a:visited {
+	color: #c59c9c;
+	border-bottom: 1px dashed #c59c9c;
+}
+
+#footer a:hover {
+	color: #fff;
+	border-bottom: 1px dashed #fff;
+}
+
+#footer_1 a {
+	background: url(../images/pink/top_bg.gif) no-repeat;
+}
+
+/* topmenu (user3) */
+#topmenu {
+	background: url(../images/pink/topmenu_bg_pink.png) repeat-x top center;
+}
+
+#mainlevel-nav li:hover {
+	background: url(../images/pink/topmenu_shadow_l_pink.png) no-repeat top left;
+}
+
+#mainlevel-nav li a:link, #mainlevel-nav li a:visited {
+	color: #c59c9c;
+}
+
+#mainlevel-nav li a:hover {
+	color: #c59c9c;
+	background: url(../images/pink/topmenu_shadow_r_pink.png) no-repeat top right;
+}
+
+.componentheading, .contentheading {
+	border-bottom: 1px solid #c59c9c;
+}
+
+.contentheading {
+	border-left: 5px solid #c59c9c;
+}
+
+.module_menu h3, .module h3 {
+	background: url(../images/pink/topmenu_bg_pink.png);
+}
+
+.module_text h3 {
+	background: #fdf3f1;
+}
+
+.article_separator {
+	border-bottom: 1px dashed #c59c9c;
+}
+
+ul.menu li a:link span, ul.menu li a:visited span {
+	color: #c59c9c;
+	border-bottom: 1px dotted #c59c9c;
+}
+
+ul.menu li a:hover span {
+	color: #a87676;
+	border-bottom: 1px dotted #6a87676;
+	background: #faf2f2;
+}
+
+tr.sectiontableentry1 td {
+	background: #fdf3f1;
+}
+
+tr.sectiontableentry2 td {
+	background: #fdf8f7;
+}

@@ -1,0 +1,73 @@
+[23-Apr-2010 10:42:14] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 16
+[23-Apr-2010 10:42:33] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 16
+[23-Apr-2010 10:42:36] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ',' or ';' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 16
+[23-Apr-2010 10:44:05] PHP Parse error:  syntax error, unexpected '=' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 16
+[23-Apr-2010 10:45:24] PHP Parse error:  syntax error, unexpected '<' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 38
+[23-Apr-2010 10:45:40] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 36
+[23-Apr-2010 10:46:05] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 38
+[23-Apr-2010 10:46:54] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 38
+[23-Apr-2010 10:47:15] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 38
+[23-Apr-2010 10:49:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 39
+[23-Apr-2010 10:49:35] PHP Warning:  require_once(custom/dataaccess/generalDAL.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 7
+[23-Apr-2010 10:49:35] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'custom/dataaccess/generalDAL.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 7
+[23-Apr-2010 10:50:03] PHP Fatal error:  Call to undefined function  querystring() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 14
+[23-Apr-2010 10:50:48] PHP Fatal error:  Call to undefined function  querystring() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 14
+[23-Apr-2010 10:51:11] PHP Fatal error:  Function name must be a string in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 14
+[23-Apr-2010 10:54:58] PHP Parse error:  syntax error, unexpected T_PRIVATE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 36
+[23-Apr-2010 10:55:22] PHP Parse error:  syntax error, unexpected T_STRING in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 36
+[23-Apr-2010 10:55:48] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 36
+[23-Apr-2010 10:56:43] PHP Parse error:  syntax error, unexpected ')', expecting '&' or T_VARIABLE in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 36
+[23-Apr-2010 10:57:26] PHP Parse error:  syntax error, unexpected '[' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 37
+[23-Apr-2010 11:10:51] PHP Warning:  require_once(/libraries/joomla/user/helper.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 8
+[23-Apr-2010 11:10:51] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/libraries/joomla/user/helper.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 8
+[23-Apr-2010 11:12:29] PHP Fatal error:  Class 'JUserHelper' not found in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 17
+[23-Apr-2010 11:14:19] PHP Fatal error:  Class 'JUserHelper' not found in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 17
+[23-Apr-2010 11:39:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 19
+[23-Apr-2010 11:40:26] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 19
+[23-Apr-2010 11:40:30] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 19
+[23-Apr-2010 11:40:34] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 19
+[23-Apr-2010 11:41:29] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 19
+[23-Apr-2010 11:41:46] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 19
+[23-Apr-2010 11:52:07] PHP Fatal error:  Call to undefined function  login() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 15
+[23-Apr-2010 12:21:29] PHP Parse error:  syntax error, unexpected T_IF in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 18
+[23-Apr-2010 12:22:01] PHP Fatal error:  Call to undefined function  showoutlets() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/index.php on line 20
+[23-Apr-2010 12:34:04] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:10] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:11] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:12] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:12] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:12] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:12] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:35:13] PHP Fatal error:  Call to undefined function  loadoutletrssdata() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 15
+[23-Apr-2010 12:36:42] PHP Warning:  require_once(../../../dataaccess/generalDAL.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/pacificc/public_html/readsomestuff.com/custom/components/outlet_content/news/news_ajax.php on line 2
+[23-Apr-2010 12:36:42] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../../dataaccess/generalDAL.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pacificc/public_html/readsomestuff.com/custom/components/outlet_content/news/news_ajax.php on line 2
+[23-Apr-2010 12:37:55] PHP Fatal error:  Cannot redeclare loadalloutletsrssdata() (previously declared in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php:44) in /home/pacificc/public_html/readsomestuff.com/custom/components/outlet_content/news/news_ajax.php on line 28
+[23-Apr-2010 12:38:31] PHP Warning:  require_once(../../../simplepie/php/simplepie.inc) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 52
+[23-Apr-2010 12:38:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../../../simplepie/php/simplepie.inc' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 52
+[23-Apr-2010 12:38:52] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 57
+[23-Apr-2010 12:40:22] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 57
+[23-Apr-2010 13:10:15] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:17] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:17] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:18] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:18] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:18] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:18] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:15:19] PHP Fatal error:  Call to undefined function  getoutletconfiguration() in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 34
+[23-Apr-2010 13:21:35] PHP Warning:  ./cache/ce1382ad8a3e3b94955b031698d94805.spc is not writeable in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1779
+[23-Apr-2010 13:21:35] PHP Warning:  ./cache/7f0725156b66c60a76e3bed6f6686faa.spc is not writeable in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1779
+[23-Apr-2010 14:02:20] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting ',' or ';' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/php/outlets.php on line 4
+[23-Apr-2010 14:02:55] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/pacificc/public_html/readsomestuff.com/custom/mobile/php/outlets.php on line 8
+[23-Apr-2010 14:11:19] PHP Parse error:  syntax error, unexpected T_STRING in /home/pacificc/public_html/readsomestuff.com/custom/mobile/outlet_view.php on line 123
+[27-Aug-2010 00:43:01] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/programming/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 00:43:01] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/security/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 00:43:01] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/tech_news/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 00:43:14] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/programming/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 00:43:14] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/security/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 00:43:15] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/tech_news/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 23:13:03] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/programming/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 23:13:03] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/security/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 23:13:04] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/tech_news/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 23:13:15] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/programming/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 23:13:15] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/security/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786
+[27-Aug-2010 23:13:16] PHP Notice: A feed could not be found at http://feeds.digg.com/digg/topic/tech_news/popular.rss in /home/pacificc/public_html/readsomestuff.com/custom/simplepie/php/simplepie.inc on line 1786

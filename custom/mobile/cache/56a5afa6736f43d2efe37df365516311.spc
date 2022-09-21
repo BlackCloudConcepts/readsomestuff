@@ -1,0 +1,194 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:1:"
+";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:70:"
+	
+		
+	
+   
+	
+	
+	
+  
+  
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:5:{s:0:"";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:17:"ESPN.com - Boxing";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:26:"http://espn.go.com/boxing/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:32:"Latest Boxing news from ESPN.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-us";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 15 May 2010 17:12:01 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"docs";a:1:{i:0;a:5:{s:4:"data";s:31:"http://backend.userland.com/rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"managingEditor";a:1:{i:0;a:5:{s:4:"data";s:21:"webmaster@espn.go.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:17:" 
+     
+	
+	
+	
+	
+ ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:3:"url";a:1:{i:0;a:5:{s:4:"data";s:54:"http://a.espncdn.com/i/tvlistings/tv_espn_original.gif";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:9:"ESPN logo";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:18:"http://espn.go.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"width";a:1:{i:0;a:5:{s:4:"data";s:2:"84";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"height";a:1:{i:0;a:5:{s:4:"data";s:2:"34";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:3:"ttl";a:1:{i:0;a:5:{s:4:"data";s:2:"30";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"item";a:17:{i:0;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:59:"Mediator to weigh Manny Pacquiao, Floyd Mayweather Jr. beef";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:586:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=4794912&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=4794912&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>The Manny Pacquiao and Floyd Mayweather Jr. camps are heading to mediation on Tuesday in an effort to work out their differences. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Tue, 5 Jan 2010 02:39:46 PST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=4794912&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=4794912&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:22:"Boxing wishes for 2010";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1021:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/espn/blog/index?entryID=4789365&amp;name=rafael_dan&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/espn/blog/index?entryID=4789365&amp;name=rafael_dan&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Another new year is upon us, so here are some of the things I'd like to see in boxing in 2010:<br/><br/>&#x26;amp;#8226;&#x26;amp;nbsp;For everybody involved to come their senses and get the Manny Pacquiao-Floyd Mayweather Jr. fight done already. Enough with the drug testing nonsense. Mayweather shouldn't be making accusations without a shred of proof as he tries to discredit all of Pacquiao's great accomplishments, nor should he try to circumvent the Nevada rules by asking for blood tests when the commission has never asked...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 2 Jan 2010 10:56:16 PST";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:109:"http://sports.espn.go.com/espn/blog/index?entryID=4789365&name=rafael_dan&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:109:"http://sports.espn.go.com/espn/blog/index?entryID=4789365&name=rafael_dan&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:85:"Krzysztof Wlodarczyk wins vacant WBC cruiserweight title with KO of Giacobbe Fragomen";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:575:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5191902&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5191902&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Krzysztof Wlodarczyk took the vacant WBC cruiserweight title by stopping Giacobbe Fragomeni in the eighth round Sunday.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Sat, 15 May 2010 16:58:47 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5191902&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5191902&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Amir Khan, Malignaggi brawl during weigh-in for junior welterweight title fight";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:598:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/new-york/news/story?id=5189263&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/new-york/news/story?id=5189263&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Junior welterweight champion Amir Khan and former titleholder Paulie Malignaggi were at the center of a brawl during the weigh-in for their title fight.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 14 May 2010 16:53:48 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:92:"http://sports.espn.go.com/new-york/news/story?id=5189263&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:92:"http://sports.espn.go.com/new-york/news/story?id=5189263&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Calvin Watkins";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:67:"Undefeated Dallas boxer Roberto Marroquin fights Saturday in Mexico";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:510:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/dallas/news/story?id=5187421&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/dallas/news/story?id=5187421&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Undefeated Dallas boxer Roberto Marroquin fights Saturday in Mexico.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Fri, 14 May 2010 11:23:06 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:90:"http://sports.espn.go.com/dallas/news/story?id=5187421&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:90:"http://sports.espn.go.com/dallas/news/story?id=5187421&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Middleweight champ Sergio Martinez considering Winky Wright as option";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:619:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5186667&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5186667&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Newly crowned middleweight champion Sergio Martinez is exploring his options, and former undisputed junior middleweight champ Winky Wright might be in his future. ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 13 May 2010 13:21:46 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5186667&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5186667&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:40:"Edwin Valero's body exhumed in Venezuela";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:577:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5187580&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5187580&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Venezuelan authorities have exhumed the body of former boxer Edwin Valero to dispel lingering doubts regarding his death.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Thu, 13 May 2010 20:02:43 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5187580&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5187580&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Floyd Mayweather Jr. on radar for Nov. 13 Manny Pacquiao bout";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:659:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5182633&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5182633&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Newly elected Filipino congressman Manny Pacquiao will fight Nov. 13, Top Rank promoter Bob Arum said on Wednesday. And if Arum and Pacquiao have their way, the fight will be against Floyd Mayweather Jr.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 12 May 2010 18:18:34 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5182633&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5182633&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:91:"Floyd Mayweather Jr.-Shane Mosley fight draws 1.4 million buys, $78.3 million in TV revenue";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:680:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5180941&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5180941&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Floyd Mayweather Jr.'s lopsided decision victory against Shane Mosley on May 1 at the MGM Grand in Las Vegas generated 1.4 million domestic pay-per-view buys and $78.3 million in television revenue, HBO announced on Tuesday.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 11 May 2010 14:21:53 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5180941&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5180941&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:88:"Cory Spinks to make mandatory defense against Cornelius Bundrage in St. Louis on June 12";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:620:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5185070&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5185070&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Junior middleweight titlist Cory Spinks, who has not fought in more than a year, will make his overdue mandatory defense against Cornelius "K9" Bundrage on June 12.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Wed, 12 May 2010 21:25:40 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5185070&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5185070&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:74:"Kelly Pavlik declines Sergio Martinez rematch, moving up in weight instead";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:537:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5180805&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5180805&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Former middleweight champion Kelly Pavlik's days as a 160-pound fighter are done.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:29:"Tue, 11 May 2010 12:49:55 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5180805&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5180805&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:61:"Antonio Margarito wins unanimous decision over Roberto Garcia";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:606:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5174977&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5174977&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a> Antonio Margarito won a unanimous decision over Roberto Garcia on Saturday in his first fight in more than 15 months following a one-year suspension.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sun, 9 May 2010 04:30:05 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5174977&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5174977&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:79:"Kermit Cintron falls onto ringside table to give Paul Williams decision victory";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:648:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5174568&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5174568&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Paul Williams earned a bizarre victory Saturday night when Kermit Cintron wasn't allowed to continue after tumbling through the ropes and landing on a ringside table early in the fourth round.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 8 May 2010 22:15:01 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5174568&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5174568&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:" Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:69:"Sources: Former heavyweight champ, analyst Lennox Lewis let go by HBO";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:613:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5172002&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5172002&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Former heavyweight champion Lennox Lewis, a staple at ringside as an analyst for HBO's "Boxing After Dark" series since 2006, has been let go by the network.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 8 May 2010 06:49:47 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5172002&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5172002&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"Khan finally granted visa to fight in U.S.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:603:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5172804&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5172804&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Junior welterweight champion Amir Khan was granted a visa Friday and will be allowed to fight in the United States for the first time next weekend.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Fri, 7 May 2010 21:00:38 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5172804&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5172804&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:16:"Associated Press";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:84:"Hugo Cazares of Mexico beats Nobuo Nashiro of Japan to win WBA super flyweight title";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:593:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5173378&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5173378&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a> Mexican challenger Hugo Cazares defeated Japan's Nobuo Nashiro in a unanimous decision to win the WBA super flyweight title on Saturday.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Sat, 8 May 2010 08:41:43 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5173378&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5173378&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:7:"
+
+
+
+
+
+
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:2:{s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:10:"Dan Rafael";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:0:"";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:53:"Steve Cunningham, Troy Ross to fight for vacant title";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:645:"
+<a href="http://api.tweetmeme.com/share?url=http://sports.espn.go.com/sports/boxing/news/story?id=5167894&amp;campaign=rss&amp;source=BOXINGHeadlines&amp;service=tinyurl.com&amp;source=espn"><img style="padding-left:10px;" align="right" border="0" style="border:none;" src="http://api.tweetmeme.com/imagebutton.gif?url=http://sports.espn.go.com/sports/boxing/news/story?id=5167894&amp;campaign=rss&amp;source=BOXINGHeadlines" height="49" width="41" /></a>Former cruiserweight titlist Steve Cunningham, who signed a promotional contract this week with leading German promoter Sauerland Event, now has his title bout signed, sealed and delivered.";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:28:"Thu, 6 May 2010 09:58:26 PDT";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5167894&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:97:"http://sports.espn.go.com/sports/boxing/news/story?id=5167894&campaign=rss&source=BOXINGHeadlines";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:24:"http://purl.org/atom/ns#";a:1:{s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:4:"self";s:4:"href";s:51:"http://sports.espn.go.com/espn/rss/boxing/news?null";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:14:"Copyright 2010";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:22:"http://webns.net/mvcb/";a:2:{s:14:"generatorAgent";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:8:"resource";s:33:"http://espn.go.com/rss/?v=0.9beta";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:14:"errorReportsTo";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:43:"http://www.w3.org/1999/02/22-rdf-syntax-ns#";a:1:{s:8:"resource";s:35:"mailto:customer.service@espn.go.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:3:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:6:"hourly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:1:"1";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"updateBase";a:1:{i:0;a:5:{s:4:"data";s:22:"2000-01-01T12:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:11:{s:12:"content-type";s:28:"text/xml; charset=iso-8859-1";s:13:"last-modified";s:29:"Sun, 16 May 2010 00:12:01 GMT";s:13:"accept-ranges";s:5:"bytes";s:6:"server";s:17:"Microsoft-IIS/6.0";s:3:"p3p";s:121:"CP=CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa IVAi IVDi CONi OUR SAMo OTRo BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA PRE";s:4:"from";s:6:"ESPN21";s:13:"cache-expires";s:29:"Sun, 16 May 2010 00:27:17 GMT";s:14:"content-length";s:5:"20416";s:13:"cache-control";s:10:"max-age=15";s:4:"date";s:29:"Sun, 16 May 2010 00:28:51 GMT";s:10:"connection";s:10:"keep-alive";}s:5:"build";s:14:"20090627192103";}

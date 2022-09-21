@@ -1,0 +1,132 @@
+body {
+	color: #90bb92;
+	background: #fff url(../images/green/bg_top_green.png) center top repeat-x;
+}
+
+a:link, a:visited {
+	color: #6a9f6c;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #90bb92;
+}
+
+#header {
+	background: url(../images/green/header_green.png) no-repeat 0 0;
+}
+
+/* module left */
+#left_l {
+	background: url(../images/green/cont_shadow_l_green.png) top left no-repeat;
+}
+
+#left_r {
+	background: url(../images/green/cont_shadow_r_green.png) top right no-repeat;
+}
+
+/* content */
+#content_l {
+	background: url(../images/green/cont_shadow_l_green.png) top left no-repeat;
+}
+
+#content_r {
+	background: url(../images/green/cont_shadow_r_green.png) top right no-repeat;
+}
+
+#pathway_inside {
+	border: 1px dotted #cbefcc;
+}
+
+.inputbox {
+	border: 1px solid #90bb92;
+	background: #f1f8f2;
+	padding: 2px;
+	color: #90bb92;
+}
+
+.inputbox:hover, .inputbox:focus {
+	border: 1px solid #6a9f6c;
+	background: #fff;
+}
+
+.button {
+	background: #90bb92;
+}
+
+.button:hover {
+	background: #6a9f6c;
+}
+
+/* footer */
+#footer {
+	background: #fff url(../images/green/bg_bottom_green.png) center bottom repeat-x;
+}
+
+#footer a:link, #footer a:visited {
+	color: #90bb92;
+	border-bottom: 1px dashed #90bb92;
+}
+
+#footer a:hover {
+	color: #fff;
+	border-bottom: 1px dashed #fff;
+}
+
+#footer_1 a {
+	background: url(../images/green/top_bg.gif) no-repeat;
+}
+
+/* topmenu (user3) */
+#topmenu {
+	background: url(../images/green/topmenu_bg_green.png) repeat-x top center;
+}
+
+#mainlevel-nav li:hover {
+	background: url(../images/green/topmenu_shadow_l_green.png) no-repeat top left;
+}
+
+#mainlevel-nav li a:link, #mainlevel-nav li a:visited {
+	color: #90bb92;
+}
+
+#mainlevel-nav li a:hover {
+	color: #90bb92;
+	background: url(../images/green/topmenu_shadow_r_green.png) no-repeat top right;
+}
+
+.componentheading, .contentheading {
+	border-bottom: 1px solid #90bb92;
+}
+
+.contentheading {
+	border-left: 5px solid #90bb92;
+}
+
+.module_menu h3, .module h3 {
+	background: url(../images/green/topmenu_bg_green.png);
+}
+
+.article_separator {
+	border-bottom: 1px dashed #90bb92;
+}
+
+ul.menu li a:link span, ul.menu li a:visited span {
+	color: #90bb92;
+	border-bottom: 1px dotted #90bb92;
+}
+
+ul.menu li a:hover span {
+	color: #6a9f6c;
+	border-bottom: 1px dotted #6a9f6c;
+	background: #f1f8f2;
+}
+
+tr.sectiontableentry1 td {
+	background: #f1fbf1;
+}
+
+tr.sectiontableentry2 td {
+	background: #f7fdf7;
+}

@@ -1,0 +1,140 @@
+img, .input {
+	border: 0 none;
+}
+
+ul#mainlevel-nav {
+	list-style: none;
+	margin: 0 7px;
+	padding: 0;
+	height: 30px;
+}
+
+#mainlevel-nav li {
+	float: left;
+	margin: 0;
+	padding: 1px 0 2px 0;
+	height: 27px;
+}
+
+#mainlevel-nav li a:link, #mainlevel-nav li a:visited {
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+	padding: 8px 14px 9px;
+	height: 27px;
+	line-height: 27px;
+}
+
+.contentheading, .componentheading {
+	font-weight: bold;
+	padding-bottom: 3px;
+	margin: 0 2px 7px;
+	font-size: 13px;
+}
+
+.componentheading {
+	text-align: center;
+}
+
+.contentheading {
+	padding-left: 5px;
+	text-align: left;
+}
+
+.module_menu h3, .module h3 {
+	margin: 0;
+	font-size: 11px;
+	text-align: center;
+	padding: 7px 3px;
+}
+
+#right .module_menu h3, #right .module h3 {
+	padding: 3px;
+	margin-bottom: 5px;
+}
+
+.module_text h3 {
+	padding: 3px;
+	margin: 0;
+	font-size: 12px;
+}
+
+.bannerheader, .banneritem_text, .bannerfooter_text  {
+	padding: 3px;
+	margin: 5px 0;
+}
+
+.banneritem_text {
+	border: 1px dashed;
+}
+
+.banneritem_text:hover {
+	border: 1px solid;
+}
+
+.module_menu div div div, .module div div div {
+	margin-bottom: 15px
+}
+
+.small, .createdate, .modifydate {
+	font-size: 10px;
+}
+
+.article_separator {
+	display: block;
+	width: 85%;
+	height: 1px;
+	margin: 20px auto;
+}
+
+ul.menu {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#form-login ul {
+	margin: 0 0 0 16px;
+	padding: 0;
+}
+
+ul.menu li a span {
+	padding: 2px 4px;
+	display: block;
+	font-weight: normal;
+}
+
+.pollstableborder {
+	text-align: left;
+}
+
+.button {
+	padding: 0;
+	margin: 0 0 0 0;
+	font-size: 12px;
+	color: #fff;
+}
+
+.inputbox {
+	font-weight: bold;
+}
+
+table.pollstableborder tbody  tr.sectiontableentry0 td, tr.sectiontableentry1 td, tr.sectiontableentry2 td {
+	padding: 3px;
+}
+
+.contenttoc {
+	border: 1px dashed;
+	float: right;
+	margin: 30px 0 0 10px;
+	display: inline;
+}
+
+.contenttoc tbody tr td {
+	padding: 3px;
+}
+
+.contenttoc tbody tr th {
+	padding: 3px;
+	border-bottom: 1px dashed;
+}

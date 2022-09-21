@@ -1,0 +1,13 @@
+-- rename tables
+RENAME TABLE rss_portletusersettings TO rss_custom_usersettings;
+
+RENAME TABLE rss_portletsrss TO rss_custom_outletsrss;
+
+RENAME TABLE rss_portlets TO rss_custom_outlets;
+
+-- manually change rss_custom_outlets.portlet_id to rss_custom_outlets.outlet_id 
+-- manually change rss_custom_outletsrss.portlet_id to rss_custom_outletsrss.outlet_id
+
+
+-- update all users to use the light-orange style
+update rss_custom_usersettings set style = 'light-orange';

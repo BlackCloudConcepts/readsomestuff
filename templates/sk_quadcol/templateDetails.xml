@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://dev.joomla.org/xml/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>SK_Quadcol</name>
+	<creationDate>10. Jul. 08</creationDate>
+	<author>Martin Skroch - <![CDATA[<a target="_blank" title="New Tab" href="http://www.genesis-nova.de">www.genesis-nova.de</a>]]></author>
+	<authorEmail>admin@www.genesis-nova.de</authorEmail>
+	<authorUrl>http://www.www.genesis-nova.de</authorUrl>
+	<copyright>Genesis Nova</copyright>
+	<license>GNU/GPL</license>
+	<version>1.1<![CDATA[&nbsp;-&nbsp;<a target="_blank" href="http://www.genesis-nova.de/index.php?option=com_versions&tmpl=component&catid=3&myVersion=1.0">Version&nbsp;Check</a>]]></version>
+	<description>
+	<![CDATA[
+	<h1 style="text-align: center;">SK QUADCOL</h1>
+	<div style="border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; margin-bottom: 10px; text-align: center;">
+		<p>Please don't remove the <span style="color: red;">'Powered by'</span> in the Footer of the site.</p>
+		<p>Contact me: <a href="mailto:admin@genesis-nova.de?subject=Question SK Quadcol">admin@genesis-nova.de</a></p>
+		<p><a target="_blank" href="http://www.genesis-nova.de/index.php?option=com_versions&tmpl=component&catid=3&myVersion=1.0">Version&nbsp;Check</a></p>
+		<p>Powered &copy; 2008 by <a target="_blank" href="http://www.genesis-nova.de" title="new tab">Genesis Nova</a></p>
+	</div>
+	]]>
+	</description>
+	<files>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>params.ini</filename>
+		<filename>js/index.html</filename>
+		<filename>js/moomenu.js</filename>
+		<filename>js/smoothscroll.js</filename>
+		<filename>css/index.html</filename>
+		<filename>css/csshover.htc</filename>
+		<filename>images/index.html</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>images/arrow.png</filename>
+		<filename>images/grey/bg_bottom_grey.png</filename>
+		<filename>images/grey/bg_top_grey.png</filename>
+		<filename>images/grey/cont_shadow_l_grey.png</filename>
+		<filename>images/grey/cont_shadow_r_grey.png</filename>
+		<filename>images/grey/favicon.ico</filename>
+		<filename>images/grey/top_bg.gif</filename>
+		<filename>images/grey/topmenu_bg_grey.png</filename>
+		<filename>images/grey/topmenu_shadow_l_grey.png</filename>
+		<filename>images/grey/topmenu_shadow_r_grey.png</filename>
+		<filename>images/grey/header_grey.png</filename>
+		<filename>images/pink/bg_bottom_pink.png</filename>
+		<filename>images/pink/bg_top_pink.png</filename>
+		<filename>images/pink/cont_shadow_l_pink.png</filename>
+		<filename>images/pink/cont_shadow_r_pink.png</filename>
+		<filename>images/pink/favicon.ico</filename>
+		<filename>images/pink/top_bg.gif</filename>
+		<filename>images/pink/topmenu_bg_pink.png</filename>
+		<filename>images/pink/topmenu_shadow_l_pink.png</filename>
+		<filename>images/pink/topmenu_shadow_r_pink.png</filename>
+		<filename>images/pink/header_pink.png</filename>
+		<filename>images/blue/bg_bottom_blue.png</filename>
+		<filename>images/blue/bg_top_blue.png</filename>
+		<filename>images/blue/cont_shadow_l_blue.png</filename>
+		<filename>images/blue/cont_shadow_r_blue.png</filename>
+		<filename>images/blue/favicon.ico</filename>
+		<filename>images/blue/top_bg.gif</filename>
+		<filename>images/blue/topmenu_bg_blue.png</filename>
+		<filename>images/blue/topmenu_shadow_l_blue.png</filename>
+		<filename>images/blue/topmenu_shadow_r_blue.png</filename>
+		<filename>images/blue/header_blue.png</filename>
+		<filename>images/green/bg_bottom_green.png</filename>
+		<filename>images/green/bg_top_green.png</filename>
+		<filename>images/green/cont_shadow_l_green.png</filename>
+		<filename>images/green/cont_shadow_r_green.png</filename>
+		<filename>images/green/favicon.ico</filename>
+		<filename>images/green/top_bg.gif</filename>
+		<filename>images/green/topmenu_bg_green.png</filename>
+		<filename>images/green/topmenu_shadow_l_green.png</filename>
+		<filename>images/green/topmenu_shadow_r_green.png</filename>
+		<filename>images/green/header_green.png</filename>
+		<filename>css/template.css</filename>
+		<filename>css/joomla.css</filename>
+		<filename>css/grey.css</filename>
+		<filename>css/pink.css</filename>
+		<filename>css/green.css</filename>
+		<filename>css/blue.css</filename>
+	</files>
+	<positions>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>footer</position>
+		<position>debug</position>
+	</positions>
+	<languages folder="languages/frontend">
+		<language tag="en-GB">en-GB.tpl_sk_quadcol.ini</language>
+		<language tag="de-DE">de-DE.tpl_sk_quadcol.ini</language>
+	</languages>
+	<administration>
+		<languages folder="languages/backend">
+			<language tag="en-GB">en-GB.tpl_sk_quadcol.ini</language>
+			<language tag="de-DE">de-DE.tpl_sk_quadcol.ini</language>
+		</languages>
+	</administration>
+	<params>
+		<param name="templatecolor" type="list" default="grey" label="templatecolor" description="choose the Color of the Template">
+			<option value="grey">Grey</option>
+			<option value="pink">Pink</option>
+			<option value="green">Green</option>
+			<option value="blue">Blue</option>
+		</param>
+		<param name="TemplateWidth" type="list" default="1" label="TemplateWidth" description="Width of the Template">
+			<option value="975px">1000px</option>
+			<option value="870px">900px</option>
+			<option value="95%">95%</option>
+			<option value="90%">90%</option>
+		</param>
+		<param name="Link type of Left" type="list" default="1" label="Link type of Left" description="choose the type of the left sidebar">
+			<option value="0">Default</option>
+			<option value="1">Moomenu</option>
+		</param>
+		<param name="TopLink" type="list" default="1" label="TopLink" description="show or hide the TopLink">
+			<option value="1">Show</option>
+			<option value="0">Hide</option>
+		</param>
+		<param name="Valid CSS/XHTML" type="list" default="1" label="Valid CSS/XHTML" description="show or hide the CSS- and XHTML-Link">
+			<option value="1">Show</option>
+			<option value="0">Hide</option>
+		</param>
+		<param name="Syndicate" type="list" default="1" label="Syndicate" description="show or hide syndicate">
+			<option value="1">Show</option>
+			<option value="0">Hide</option>
+		</param>
+	</params>
+</install>

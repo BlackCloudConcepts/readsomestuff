@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system">
+	<name>System - Greybox</name>
+	<author>Orangoo / JoomlaPraise</author>
+	<creationDate>05/2009</creationDate>
+	<copyright>Copyright (C) 2009 Orangoo / JoomlaPraise</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html</license>
+	<authorEmail>info@joomlapraise.com</authorEmail>
+	<authorUrl>www.orangoo.com / www.joomlapraise.com</authorUrl>
+	<version>5.53</version>
+	<description>This plugin integrates "Greybox" into Joomla. For more info and documentation, visit: http://orangoo.com/labs/GreyBox/</description>
+	<files>
+		<filename plugin="greybox">greybox.php</filename>
+		<filename>greybox/AJS.js</filename>
+		<filename>greybox/AJS_fx.js</filename>
+		<filename>greybox/g_close.gif</filename>
+		<filename>greybox/gb_scripts.js</filename>
+		<filename>greybox/gb_styles.css</filename>
+		<filename>greybox/header_bg.gif</filename>
+		<filename>greybox/indicator.gif</filename>
+		<filename>greybox/loader_frame.html</filename>
+		<filename>greybox/next.gif</filename>
+		<filename>greybox/prev.gif</filename>
+		<filename>greybox/w_close.gif</filename>
+	</files>
+	<params>
+	</params>
+</install>

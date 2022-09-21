@@ -1,0 +1,144 @@
+img, div{ behavior: url(../../custom/pngfix/iepngfix.htc) }
+
+.myTextboxBlack{
+  margin:5px 2px;
+  height:20px;
+  color:#AD3F01;
+  background: #ffffff;
+  font-size: 1em;
+}
+
+.myOrangeSmall{
+	  color:#AD3F01;
+	  font-size: 7pt;
+	  text-align:center;
+	  vertical-align:top;
+	}
+	
+	.myBlackSmall{
+	  color:#000000;
+	  font-size: 7pt;
+	  text-align:center;
+	  vertical-align:top;
+	}
+
+.myOrangeTitle{
+	  color:#AD3F01;
+	  font-size: 9pt;
+	  text-align:center;
+	  vertical-align:top;
+	  
+	
+	}
+	
+	.myOrangeTable{
+	background-color: rgb(255, 245, 238);
+	  border-width: 2px 2px 2px 2px;
+	border-spacing: 2px;
+	border-style: solid solid solid solid;
+	border-color: orange orange orange orange;
+	border-collapse: collapse;
+	}
+	
+	.myOrangeSmallLeft{
+	  color:#AD3F01;
+	  font-size: 7pt;
+	  text-align:left;
+	  vertical-align:top;
+	}
+	
+	.myOrangeSmallMiddle{
+	  color:#AD3F01;
+	  font-size: 7pt;
+	  text-align:right;
+
+	}
+
+.mySelectList{
+  margin:5px 2px;
+  color:#AD3F01;
+  background: #ffffff;
+  font-size: 1em;
+}
+
+
+.feedbackButton{
+  color:#FFFFFF;
+  background:#000000;
+  font-size: 10pt;
+}
+
+.feedbackText{
+  color:#000000;
+  background:#E6E6E6;
+  font-size: 10pt;
+}
+
+.feedbackLabel{
+  font-size: 10pt;
+}
+
+.helptext{
+  font-size: 8pt;
+  color:#000000;
+}
+/* The following is in the control.php file as it is adjusted based on settings. */
+/*.column { width: <?php echo GetColumnWidth($_SESSION['userid']); ?>px; float: left; padding-bottom: 100px; } */
+.portlet { margin: 0em 1em 1em 0em; }
+.portlet-header { margin: 0.3em; padding-bottom: 0px; padding-left: 0.2em; }
+.portlet-header .ui-icon { float: right; }
+.portlet-content { padding: 0.4em; }
+.ui-sortable-placeholder { border: 1px dotted black; visibility: visible !important; height: 50px !important; }
+.ui-sortable-placeholder * { visibility: hidden; }
+
+
+#container_1 {
+	text-align: center;
+	width: 100%;
+}
+
+#container_2 {
+	text-align: left;
+	margin: 0 auto;
+	background: none;
+}
+/* The following is in the control.php file as it is adjusted based on settings. */
+/* #container_2 { width: <?php echo GetUserSettingsScreenWidth($_SESSION['userid']); ?>px; } */
+
+body {
+	font-family: "Arial", "Verdana", "Trebuchet MS", "Helvetica",  "sans-serif";
+	/*background: #fff url(templates/sk_quadcol/images/grey/bg_top_grey.png) center top repeat-x;*/
+	background: #fff url(../../templates/sk_quadcol/images/grey/bg_top_grey.png) center top repeat-x;
+}	
+
+
+
+.error
+{
+position: fixed;
+top: 900;
+left: 25;
+font-size: 8pt;
+font-family: Arial;
+padding-left: 2px;
+}
+
+table.orange {
+	border-width: 2px 2px 2px 2px;
+	border-spacing: 2px;
+	border-style: solid solid solid solid;
+	border-color: orange orange orange orange;
+	border-collapse: collapse;
+	background-color: white;
+}
+
+table.orange td {
+	border-width: 1px 1px 1px 1px;
+	padding: 0px 0px 0px 0px;
+	border-style: none none none none;
+	border-color: gray gray gray gray;
+	background-color: rgb(255, 245, 238);
+	-moz-border-radius: 0px 0px 0px 0px;
+}
+
+

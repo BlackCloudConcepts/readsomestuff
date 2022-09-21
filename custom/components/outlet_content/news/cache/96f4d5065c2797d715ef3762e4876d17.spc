@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:53:"http://news.google.com/news?pz=1&ned=us&hl=en&q=women";s:8:"feed_url";s:78:"http://news.google.com/news?pz=1&cf=all&ned=us&hl=en&q=women&cf=all&output=rss";s:5:"build";s:14:"20090627192103";}

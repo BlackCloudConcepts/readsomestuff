@@ -1,0 +1,39 @@
+Steps to upgrade the RSS project from beta version 1.0 to 1.10.
+
+
+CODE
+1. Remove /myportlets.php
+2. Remove /portlets/
+3. Deploy /home.php
+4. Deploy /custom folder zip
+5. Deploy png to templates/sk_quadcol/images/grey/header_lightorange.png
+6. Modify joomla template html to use new header
+7. Modify Jumi Login/Logout to redirect to home.php instead of myportlets.php
+8. Deploy /feedback.php
+
+
+
+SCRIPTS
+1. Run script sql_rollout.txt
+
+
+
+POST DEPLOYMENT
+1. Modify DB Connections in generalDAL.php to point to correct database
+
+
+
+NOTES:
+- plugins/system/greybox/gb_styles.css line  
+background:transparent url(/custom/css/images/close_icon_double.png) 0 0 no-repeat;
+
+
+CHANGES THRU ADMINISTRATION
+- copy all changes to menus, articles, jumi, modules, etc from betarss
+- remove commented code from template html
+- remove unused templates
+- install and configure acymailing
+- add copyright (add footer section)
+- add terms of use
+- modify mymenu
+- 

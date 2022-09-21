@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:34:"http://boxing.fanhouse.com/rss.xml";s:8:"feed_url";s:60:"http://www.huffingtonpost.com/feeds/original_posts/index.xml";s:5:"build";s:14:"20090627192103";}

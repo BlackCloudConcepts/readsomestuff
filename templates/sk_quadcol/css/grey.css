@@ -1,0 +1,26 @@
+body {
+	color: #000;
+	background: #fff url(../images/grey/bg_top_grey.png) center top repeat-x;
+}
+
+
+img, div{ behavior: url(/portlets/pngfix/iepngfix.htc) }
+
+
+a {
+color: #aaa;
+text-decoration: underline;
+}
+
+a:hover {color:#AF4D15}  
+a:active {color:#AF4D15}
+
+.headerorange {
+color: #AF4D15;
+}
+
+.a_menu {
+color: #aaa;
+font-weight:bold;
+text-decoration: none;
+}
